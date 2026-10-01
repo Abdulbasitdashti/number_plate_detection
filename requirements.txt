@@ -1,2 +1,3 @@
 Ultralytics
 gradio
+PIL
